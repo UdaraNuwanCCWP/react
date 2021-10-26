@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage":"test2020.jackpot.lk",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",

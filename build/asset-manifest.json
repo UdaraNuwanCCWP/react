@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test2020.jackpot.lk/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/test2020.jackpot.lk/static/js/main.9fa1c34e.chunk.js",
+    "main.js.map": "/test2020.jackpot.lk/static/js/main.9fa1c34e.chunk.js.map",
+    "runtime-main.js": "/test2020.jackpot.lk/static/js/runtime-main.5750f4e0.js",
+    "runtime-main.js.map": "/test2020.jackpot.lk/static/js/runtime-main.5750f4e0.js.map",
+    "static/js/2.fa9ea962.chunk.js": "/test2020.jackpot.lk/static/js/2.fa9ea962.chunk.js",
+    "static/js/2.fa9ea962.chunk.js.map": "/test2020.jackpot.lk/static/js/2.fa9ea962.chunk.js.map",
+    "static/js/3.2bb8242a.chunk.js": "/test2020.jackpot.lk/static/js/3.2bb8242a.chunk.js",
+    "static/js/3.2bb8242a.chunk.js.map": "/test2020.jackpot.lk/static/js/3.2bb8242a.chunk.js.map",
+    "index.html": "/test2020.jackpot.lk/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/test2020.jackpot.lk/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fa9ea962.chunk.js.LICENSE.txt": "/test2020.jackpot.lk/static/js/2.fa9ea962.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/test2020.jackpot.lk/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5750f4e0.js",
+    "static/js/2.fa9ea962.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9fa1c34e.chunk.js"
+  ]
+}
